@@ -1,0 +1,33 @@
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csprojAssemblyReference.cache
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csproj.CoreCompileInputs.cache
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfoInputs.cache
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfo.cs
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.deps.json
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.dll
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.pdb
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.dll
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.pdb
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.json
+H:\Sample_Rnd_Projects\asp.net_core\DemoSample\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.dev.json
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.deps.json
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.json
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.dev.json
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.dll
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.pdb
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csprojAssemblyReference.cache
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csproj.CoreCompileInputs.cache
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfoInputs.cache
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfo.cs
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.dll
+D:\Github\Asp.Net_Core_Session\Day 2\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.pdb
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.deps.json
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.json
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.runtimeconfig.dev.json
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.dll
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\bin\Debug\netcoreapp2.1\DataContextLayer.pdb
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csprojAssemblyReference.cache
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.csproj.CoreCompileInputs.cache
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfoInputs.cache
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.AssemblyInfo.cs
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.dll
+C:\Users\krunal\Downloads\DemoSample_CodeFirst\DemoSample_CodeFirst\DataContextLayer\obj\Debug\netcoreapp2.1\DataContextLayer.pdb

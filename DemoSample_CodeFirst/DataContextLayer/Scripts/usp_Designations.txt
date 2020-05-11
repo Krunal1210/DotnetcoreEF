@@ -1,0 +1,6 @@
+﻿Create procedure usp_GetDesignation
+@p_DesigId int
+As
+Select * from [EFCore].[Designation] where Designationid=@p_DesigId
+
+GO

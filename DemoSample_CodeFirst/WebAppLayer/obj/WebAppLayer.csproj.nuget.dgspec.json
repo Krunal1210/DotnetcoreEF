@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\WebAppLayer\\WebAppLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\DataContextLayer\\DataContextLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\DataContextLayer\\DataContextLayer.csproj",
+        "projectName": "DataContextLayer",
+        "projectPath": "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\DataContextLayer\\DataContextLayer.csproj",
+        "packagesPath": "C:\\Users\\krunal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\DataContextLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\krunal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\WebAppLayer\\WebAppLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\WebAppLayer\\WebAppLayer.csproj",
+        "projectName": "WebAppLayer",
+        "projectPath": "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\WebAppLayer\\WebAppLayer.csproj",
+        "packagesPath": "C:\\Users\\krunal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\WebAppLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\krunal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\DataContextLayer\\DataContextLayer.csproj": {
+                "projectPath": "C:\\Users\\krunal\\Downloads\\DemoSample_CodeFirst\\DemoSample_CodeFirst\\DataContextLayer\\DataContextLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

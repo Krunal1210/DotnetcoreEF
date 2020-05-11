@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataContextLayer", "DataContextLayer\DataContextLayer.csproj", "{65D7FA91-E0E3-4A8F-B9F6-3E1A2AB4A042}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppLayer", "WebAppLayer\WebAppLayer.csproj", "{CA604C52-4735-49BC-B2F0-9176AE462452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D7FA91-E0E3-4A8F-B9F6-3E1A2AB4A042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D7FA91-E0E3-4A8F-B9F6-3E1A2AB4A042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D7FA91-E0E3-4A8F-B9F6-3E1A2AB4A042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D7FA91-E0E3-4A8F-B9F6-3E1A2AB4A042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA604C52-4735-49BC-B2F0-9176AE462452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA604C52-4735-49BC-B2F0-9176AE462452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA604C52-4735-49BC-B2F0-9176AE462452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA604C52-4735-49BC-B2F0-9176AE462452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6616021-3284-4F69-9494-AD7B59B113E8}
+	EndGlobalSection
+EndGlobal

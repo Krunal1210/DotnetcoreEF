@@ -1,0 +1,47 @@
+﻿@model DataContextLayer.Models.Designation
+
+@{
+    ViewData["Title"] = Model != null ? "Edit" : "Create";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h4>Designation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="@ViewData["Title"]">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="DesignationId" class="form-control" />
+            <div class="form-group">
+                <label asp-for="DesignationCode" class="control-label"></label>
+                <input asp-for="DesignationCode" class="form-control" />
+                <span asp-validation-for="DesignationCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DesignationName" class="control-label"></label>
+                <input asp-for="DesignationName" class="form-control" />
+                <span asp-validation-for="DesignationName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DepartmentId" class="control-label"></label>
+                <select asp-for="DepartmentId" asp-items="@(new SelectList(ViewBag.Departments,"DepartmentId","DepartmentName"))" class="form-control">
+                    <option value="">--Select--</option>
+                </select>
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
